@@ -8,7 +8,7 @@ namespace DGO
     [Serializable]
     public class TopList
     {
-        public static readonly int count = 10;
+        public static readonly int count = 11;
 
         public TopList()
         {
