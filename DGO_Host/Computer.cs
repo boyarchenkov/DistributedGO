@@ -8,7 +8,7 @@ namespace DGO
     {
         public static int next_id = 0;
         public static TimeSpan timeout = new TimeSpan(0, 10, 0);
-        public static TimeSpan perfomance_mean_interval = new TimeSpan(0, 1, 0);
+        public static TimeSpan perfomance_mean_interval = new TimeSpan(0, 2, 0);
         public static int lags_mean_count = 100;
         //public static double flops_for_MD_step = 13515271 / 1.0e+9; // 324 ions
         public static double flops_for_MD_step = 62710915 / 1.0e+9; // 768 ions
